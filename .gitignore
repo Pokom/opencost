@@ -7,3 +7,9 @@ ui/dist
 ui/node_modules/
 cmd/costmodel/costmodel
 pkg/cloud/azureorphan_test.go
+
+# Secrets file
+.env
+
+# Binaries
+costmodel
